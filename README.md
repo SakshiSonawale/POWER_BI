@@ -1,1 +1,1 @@
-# POWER_BI
+This collection showcases a variety of visualizations created using Power BI, aimed at demonstrating effective data storytelling and insightful analysis. Each visualization highlights different aspects of data manipulation, transformation, and presentation techniques.
