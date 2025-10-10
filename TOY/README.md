@@ -40,7 +40,7 @@ You have access to data containing transactional records from January 2022-Septe
 - Total Orders = DISTINCTCOUNT(sales[Sale_ID])
 - Total Revenue = SUM(sales[Revenue])
 - Total Profit = SUM(sales[Profit])
-- 
+  
 BONUS: Can you define new measures to calculate total revenue and profit without referencing any of the calculated columns in the sales table?
 - Revenue (M) = SUMX (sales, sales[Units] * RELATED(products[Product_Price]))
 - Profit (M) = SUMX( sales, [Revenue (M)] - (sales[Units] * RELATED(products[Product_Cost])))
