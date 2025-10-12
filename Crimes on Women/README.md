@@ -81,7 +81,8 @@ Source: Kaggle
 ## Inspiration
 To raise awareness and support data-driven policies for women’s safety.
 
-
+## Snapshot
+![Power BI Dashboard](https://github.com/SakshiSonawale/POWER_BI/blob/main/Crimes%20on%20Women/Snapshot%20of%20dashboard.PNG)
 
 
 
